@@ -32,7 +32,7 @@
 </p>
 
 <p align='center'>
-  📫 Reach me at: zhiyu dot an at gmail dot com</a>
+  📫 Reach me at: <a href='mailto:zhiyu.an@gmail.com'>zhiyu.an@gmail.com</a>
 </p> 
 
 <!--
