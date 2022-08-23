@@ -32,7 +32,7 @@
 </p>
 
 <p align='center'>
-  📫 How to reach me: zhiyu dot an at gmail dot com</a>
+  📫 Reach me at: zhiyu dot an at gmail dot com</a>
 </p> 
 
 <!--
